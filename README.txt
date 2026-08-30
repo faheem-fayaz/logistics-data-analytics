@@ -1,0 +1,1 @@
+Logistics internship Weeks 1–4. Four Word reports, synthetic raw/clean datasets, charts and model/optimization artifacts. DataCo Smart Supply Chain is used as a public reference schema; the demonstrated records are synthetic.
